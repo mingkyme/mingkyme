@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=E3A6AE&height=300&section=header&text=MINGKYME&fontSize=90)
 
 # 👋 제 github를 찾아주셔서 감사합니다.
-## 제 개인 홈페이지도 확인해주세요 [Click](https://www.mingky.me)
+## 제 개인 홈페이지도 확인해주세요 [MINGKY.ME](https://www.mingky.me)
 
 [![MINGKYME's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingkyme&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
