@@ -1,15 +1,33 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=E3A6AE&height=300&section=header&text=MINGKYME&fontSize=90)
+# MINGKYME
+  
+> 💡 불편함을 해소하기 위해, 오늘도 디버깅을 합니다.
+  
+## 🔧 Tech
+- C#
+    - for Windows GUI App
+- JS & TS
+    - for Web
+- Unity 
+    - for Simulator
+- Go
+    - for High Performance Module
+  
+## 🎥 Proejct
 
-### 개인 홈페이지도 확인해주세요
-[MINGKY.ME](https://www.mingky.me)
-
-### 포트폴리오가 궁금하시다면?
-[포트폴리오](https://www.notion.so/mingkyme/Mingky-1c35fdc64e0e408b8c947048d01fa59e)
-
-
-[![MINGKYME's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingkyme&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingkyme)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingkyme&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- See Star
+- Insurece Kiosk
+- Smarteeth
+- Fire Safety
+- Sensor Viewer
+- 부산산단통근 iOS app
+- webFTP
+- Hololens Body
+- 공존현실 선체의장 검사 시스템
+- Auto Incresment++ for VS Code
+- Short URL
+- 경남정보대학교 S Planner
+- Switchbot Clova Extension
+  
+  ### 자세한 내용은..
+  [More](https://www.notion.so/mingkyme/Mingky-1c35fdc64e0e408b8c947048d01fa59e)
 
