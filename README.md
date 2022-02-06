@@ -56,5 +56,5 @@
   - 손 든 학생을 확인할 수 있습니다.
 
 
-### 더 많은 내용은...
+## 더 많은 내용은...
 [Notion.so](https://www.notion.so/mingkyme/Mingky-1c35fdc64e0e408b8c947048d01fa59e)
