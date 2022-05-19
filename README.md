@@ -59,3 +59,4 @@
 
 [Notion.so](https://www.notion.so/mingkyme/Mingky-1c35fdc64e0e408b8c947048d01fa59e)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lbahpynonhgdudnhikcwk4i&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21lbahpynonhgdudnhikcwk4i&redirect=true)
