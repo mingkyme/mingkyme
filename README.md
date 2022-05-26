@@ -1,4 +1,5 @@
-# MINGKYME
+# <img src = "https://user-images.githubusercontent.com/45954551/170448516-0998b893-01b6-4051-91c1-2573a35646d9.png" width="24px" height="24px"> MINGKYME
+
 
 > 💡 불편함을 해소하기 위해, 오늘도 디버깅을 합니다.
 > 
