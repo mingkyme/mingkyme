@@ -63,4 +63,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingky)](https://solved.ac/mingky/)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lbahpynonhgdudnhikcwk4i&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21lbahpynonhgdudnhikcwk4i&redirect=true)
