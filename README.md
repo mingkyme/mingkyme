@@ -2,24 +2,21 @@
 
 
 > 💡 불편함을 해소하기 위해, 오늘도 디버깅을 합니다.
-> 
-> 🪖 현재 산업기능요원으로 복무 중입니다. (2021.11 ~ ing)
+>
+> 🪖 현재 산업기능요원으로 복무 중입니다. (2021.11 ~ 2023.10)
 
 ## 🔧 Tech
 
-- C#
-  - for Windows GUI App
-- JS & TS
-  - for Web App
-- Unity 
-  - for Simulator
 - Go
   - for High Performance Module
+- JS & TS
+  - for Web App
+- Unity
+  - for Simulator
 
 
 
-
-## 🎥 Proejct
+## 🎥 개인 Proejct
 
 ### IoT
 
@@ -39,10 +36,8 @@
 
 -  [Auto Increasement for VS Code](https://github.com/mingkyme/AutoIncreasement-VSCode)
    - VS Code에서 동적으로 숫자을 할당합니다.
--  [Typora Image Uploader](https://github.com/mingkyme/golang-image-uploader) & [Server](https://github.com/mingkyme/golang-image-uploader-server)
+-  [Typora Image Uploader](https://github.com/mingkyme/golang-image-uploader) & [Server](https://github.com/mingkyme/golang-image-uploader-server) & [homebrew](https://github.com/mingkyme/homebrew-typora-uploader)
    - Typora 에디터의 이미지 업로드 플러그인 및 서버 입니다.
--  [BJ Viewer for VS Code](https://github.com/mingkyme/bj-viewer-VSCode)
-   -  백준 문제를 자동으로 열어 줍니다.
 
 
 ### Web
@@ -53,6 +48,10 @@
   - 긴 URL을 짧게 단축시킵니다.
 - [Hands Up](https://github.com/mingkyme/Hands-Up)
   - 손 든 학생을 확인할 수 있습니다.
+- [Community Crawler]()
+  - [비공개] 커뮤니티의 게시글 중 영상 자료가 첨부된 글을 모아옵니다.
+- [Speed Test](https://speedtest.mingky.me/)
+  - 개인 서버와의 인터넷 속도 측정을 합니다.
 
 
 
@@ -62,4 +61,3 @@
 [Notion.so](https://www.notion.so/mingkyme/Mingky-1c35fdc64e0e408b8c947048d01fa59e)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingky)](https://solved.ac/mingky/)
-
