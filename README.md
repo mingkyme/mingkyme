@@ -48,10 +48,8 @@
   - 긴 URL을 짧게 단축시킵니다.
 - [Hands Up](https://github.com/mingkyme/Hands-Up)
   - 손 든 학생을 확인할 수 있습니다.
-- [Community Crawler]()
+- [Community Crawler](https://community.mingky.me/)
   - [비공개] 커뮤니티의 게시글 중 영상 자료가 첨부된 글을 모아옵니다.
-- [Speed Test](https://speedtest.mingky.me/)
-  - 개인 서버와의 인터넷 속도 측정을 합니다.
 
 
 
