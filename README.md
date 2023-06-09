@@ -7,12 +7,11 @@
 
 ## 🔧 Tech
 
-- Go
-  - for High Performance Module
 - JS & TS
   - for Web App
-- Unity
-  - for Simulator
+- Go
+  - for High Performance Module
+
 
 
 
