@@ -57,4 +57,6 @@
 
 [Notion.so](https://www.notion.so/mingkyme/Mingky-1c35fdc64e0e408b8c947048d01fa59e)
 
+[Blog](https://blog.mingky.me)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingky)](https://solved.ac/mingky/)
