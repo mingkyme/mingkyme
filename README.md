@@ -60,3 +60,5 @@
 [Blog](https://blog.mingky.me)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingky)](https://solved.ac/mingky/)
+
+![AWS-CDA](https://github.com/mingkyme/mingkyme/assets/45954551/f22c1e53-b728-4f0d-ae33-87fcb290c8de)
