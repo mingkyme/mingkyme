@@ -5,12 +5,23 @@
 >
 > 🪖 산업기능요원으로 복무 완료 (2021.11 ~ 2023.10)
 
-## 🔧 Tech
 
-- JS & TS
-  - for Web App
+
+## 💼 Work
+
+| 날짜              | 회사             | 업무                     |
+| ----------------- | ---------------- | ------------------------ |
+| 2021.11 ~ 근무 중 | 아틀라스네트웍스 | CDN 플랫폼 개발 (nginx)  |
+| 2019.03 ~ 2021.06 | 브이앤알         | 교육용 VR AR 컨텐츠 개발 |
+
+
+
+## 🔧 Skill
+
 - Go
   - for High Performance Module
+- JS & TS
+  - for Web App
 
 
 
@@ -37,7 +48,10 @@
    - VS Code에서 동적으로 숫자을 할당합니다.
 -  [Typora Image Uploader](https://github.com/mingkyme/golang-image-uploader) & [Server](https://github.com/mingkyme/golang-image-uploader-server) & [homebrew](https://github.com/mingkyme/homebrew-typora-uploader)
    - Typora 에디터의 이미지 업로드 플러그인 및 서버 입니다.
-
+-  [Nginx Cache Module](https://github.com/mingkyme/nginx-cache-key-module)
+   -  Nginx의 Cache Key를 확인할 수 있는 모듈입니다. (From free-nginx)
+-  [Nginx Age Module](https://github.com/mingkyme/nginx-cache-age-module)
+   -  Nginx의 Cache Age를 확인할 수 있는 모듈입니다. (From free-nginx)
 
 ### Web
 
